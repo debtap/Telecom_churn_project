@@ -1,0 +1,101 @@
+customer_id,gender,senior_citizen,partner,dependents,tenure_months,phone_service,multiple_lines,internet_service,online_security,tech_support,contract,paperless_billing,payment_method,monthly_charges,total_charges,support_tickets,late_payments,churn
+TEL1001,Female,0,Yes,Yes,72,Yes,Yes,No,No internet service,No internet service,One year,Yes,Credit card,71.67,5177.72,1,0,No
+TEL1002,Male,0,No,No,56,Yes,No,DSL,No,No,Month-to-month,Yes,Bank transfer,108.07,5972.73,2,1,No
+TEL1003,Male,0,No,No,24,No,No phone service,Fiber optic,Yes,Yes,Two year,No,Bank transfer,83.85,2046.23,3,2,No
+TEL1004,Male,0,Yes,Yes,70,Yes,No,No,No internet service,No internet service,One year,No,Electronic check,35.31,2477.49,2,3,No
+TEL1005,Male,1,Yes,Yes,36,Yes,No,DSL,No,Yes,Month-to-month,No,Electronic check,51.3,1954.21,0,1,Yes
+TEL1006,Female,0,No,Yes,37,Yes,Yes,DSL,Yes,No,Two year,Yes,Electronic check,97.14,3544.67,0,0,No
+TEL1007,Male,0,Yes,No,32,No,No phone service,Fiber optic,Yes,No,One year,Yes,Credit card,116.49,3723.06,1,0,No
+TEL1008,Male,1,No,Yes,11,Yes,No,Fiber optic,,Yes,One year,No,Bank transfer,52.48,658.2,2,2,Yes
+TEL1009,Male,0,No,No,68,Yes,No,Fiber optic,No,No,Month-to-month,Yes,Electronic check,48.99,3384.93,2,0,Yes
+TEL1010,Male,0,No,No,2,Yes,Yes,No,No internet service,No internet service,Month-to-month,No,Electronic check,66.5,101.67,1,0,No
+TEL1011,Male,0,Yes,No,13,Yes,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Mailed check,56.16,740.16,0,0,Yes
+TEL1012,Male,0,No,No,17,Yes,Yes,Fiber optic,No,No,Two year,Yes,Electronic check,117.22,1992.83,0,1,No
+TEL1013,Male,0,Yes,No,21,Yes,Yes,Fiber optic,No,Yes,One year,No,Credit card,70.93,,2,0,No
+TEL1014,Male,0,No,Yes,10,Yes,Yes,DSL,No,Yes,Two year,Yes,Bank transfer,42.95,398.06,3,1,No
+TEL1015,Female,0,Yes,No,2,Yes,Yes,Fiber optic,No,No,Month-to-month,Yes,Electronic check,125.89,247.76,1,0,No
+TEL1016,Female,0,Yes,No,49,Yes,No,No,No internet service,No internet service,Month-to-month,Yes,Electronic check,27.9,1295.19,3,1,No
+TEL1017,Female,0,No,No,70,Yes,Yes,DSL,No,No,One year,No,Electronic check,55.62,3899.48,2,2,No
+TEL1018,Female,0,Yes,No,9,Yes,No,DSL,Yes,No,Month-to-month,No,Mailed check,43.83,414.72,2,4,No
+TEL1019,Female,0,No,No,22,No,No phone service,Fiber optic,Yes,Yes,Two year,Yes,Electronic check,53.39,1164.35,2,1,No
+TEL1020,Female,0,No,Yes,37,Yes,No,DSL,No,Yes,One year,Yes,Electronic check,31.9,1107.62,1,1,Yes
+TEL1021,Female,0,Yes,No,67,Yes,Yes,DSL,No,No,One year,No,Electronic check,34.99,2388.81,1,1,No
+TEL1022,Female,0,Yes,No,50,Yes,No,DSL,Yes,Yes,Month-to-month,Yes,Electronic check,45.72,2302.4,1,2,No
+TEL1023,Male,0,No,No,56,Yes,Yes,Fiber optic,No,No,Two year,Yes,Credit card,47.8,2644.13,2,2,Yes
+TEL1024,Male,0,Yes,No,42,Yes,Yes,Fiber optic,No,No,Two year,Yes,Electronic check,96.2,4027.77,1,0,No
+TEL1025,Male,1,Yes,No,31,Yes,Yes,Fiber optic,No,Yes,One year,Yes,Credit card,104.26,3164.53,3,0,No
+TEL1026,Female,0,Yes,No,15,No,No phone service,DSL,No,No,Month-to-month,No,Credit card,65.43,935.31,1,1,No
+TEL1027,Female,0,Yes,No,63,Yes,Yes,Fiber optic,No,Yes,Month-to-month,No,Bank transfer,71.62,4487.86,0,2,Yes
+TEL1028,Male,1,No,Yes,58,Yes,No,Fiber optic,No,No,Month-to-month,No,Electronic check,88.41,5183.06,0,0,Yes
+TEL1029,Female,0,Yes,No,2,Yes,No,Fiber optic,Yes,No,Month-to-month,Yes,Mailed check,121.75,214.72,1,1,No
+TEL1030,Male,0,No,Yes,52,Yes,Yes,DSL,No,No,One year,Yes,Credit card,106.6,5572.01,2,1,No
+TEL1031,Female,1,Yes,Yes,7,Yes,Yes,Fiber optic,No,No,One year,Yes,Electronic check,46.91,304.15,0,2,Yes
+TEL1032,Female,0,No,No,54,Yes,Yes,No,,No internet service,Two year,Yes,Bank transfer,29.33,1594.98,0,0,No
+TEL1033,Male,0,Yes,No,60,Yes,Yes,DSL,No,No,Month-to-month,Yes,Mailed check,51.31,3072.24,2,0,No
+TEL1034,Female,0,Yes,No,10,Yes,Yes,Fiber optic,No,No,Month-to-month,Yes,Electronic check,65.44,693.69,1,0,Yes
+TEL1035,Female,0,No,No,32,Yes,Yes,DSL,No,No,Month-to-month,Yes,Mailed check,81.41,2581.05,5,2,No
+TEL1036,Male,0,Yes,No,9,No,No phone service,Fiber optic,No,Yes,Month-to-month,Yes,Credit card,80.46,653.38,0,3,Yes
+TEL1037,Female,1,Yes,No,41,Yes,Yes,No,No internet service,No internet service,Month-to-month,No,Credit card,18.0,675.81,0,0,No
+TEL1038,Male,1,No,No,67,Yes,Yes,DSL,No,No,Month-to-month,Yes,Mailed check,63.63,4239.28,2,2,No
+TEL1039,Female,0,Yes,No,6,Yes,No,DSL,No,Yes,Month-to-month,Yes,Electronic check,77.14,406.63,1,1,Yes
+TEL1040,Female,0,Yes,No,29,Yes,No,Fiber optic,Yes,No,One year,No,Bank transfer,52.15,1530.81,1,0,No
+TEL1041,Male,0,Yes,No,71,Yes,Yes,DSL,No,No,Month-to-month,No,Electronic check,105.01,7434.75,0,0,No
+TEL1042,Female,1,No,No,22,Yes,Yes,DSL,No,Yes,Two year,No,Bank transfer,34.68,869.82,3,2,No
+TEL1043,Male,0,No,No,10,Yes,Yes,No,No internet service,No internet service,One year,Yes,Credit card,96.24,884.2,1,1,No
+TEL1044,Male,1,No,No,36,Yes,No,DSL,Yes,Yes,Month-to-month,No,Electronic check,38.92,1410.28,2,1,No
+TEL1045,Male,1,No,No,37,No,No phone service,Fiber optic,No,No,Two year,Yes,Electronic check,118.92,4349.28,0,1,Yes
+TEL1046,Female,0,Yes,No,48,Yes,Yes,Fiber optic,No,No,One year,Yes,Electronic check,124.24,5941.32,0,0,No
+TEL1047,Male,0,Yes,No,23,Yes,Yes,Fiber optic,No,No,Month-to-month,Yes,Electronic check,130.0,2996.36,3,1,Yes
+TEL1048,Male,1,Yes,No,69,Yes,Yes,DSL,Yes,No,Month-to-month,Yes,Electronic check,102.18,6945.78,1,0,Yes
+TEL1049,Male,0,Yes,No,38,Yes,No,Fiber optic,Yes,Yes,One year,Yes,Electronic check,113.15,4310.36,1,0,No
+TEL1050,Female,0,Yes,Yes,21,Yes,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Electronic check,100.82,2202.85,2,3,Yes
+TEL1051,Male,1,No,Yes,70,Yes,Yes,DSL,No,No,Month-to-month,No,Electronic check,100.11,6987.3,1,0,No
+TEL1052,Female,0,No,No,67,Yes,Yes,No,No internet service,No internet service,Month-to-month,Yes,Bank transfer,25.11,1694.06,1,0,No
+TEL1053,Male,0,No,No,36,Yes,Yes,Fiber optic,Yes,No,One year,Yes,Bank transfer,91.25,3331.12,1,2,No
+TEL1054,Female,0,No,Yes,2,Yes,No,DSL,No,Yes,One year,Yes,Bank transfer,76.28,145.18,0,1,No
+TEL1055,Male,0,No,No,43,Yes,Yes,Fiber optic,Yes,No,One year,Yes,Electronic check,120.18,,0,2,Yes
+TEL1056,Male,1,Yes,No,40,Yes,Yes,DSL,Yes,Yes,One year,Yes,Mailed check,71.65,2763.59,1,0,No
+TEL1057,Female,0,No,Yes,11,Yes,No,Fiber optic,Yes,Yes,Month-to-month,Yes,Credit card,77.66,883.1,2,0,Yes
+TEL1058,Male,0,No,No,46,No,No phone service,DSL,Yes,No,One year,Yes,Electronic check,87.56,4022.67,1,0,No
+TEL1059,Male,0,Yes,No,61,Yes,Yes,DSL,No,Yes,Month-to-month,No,Electronic check,53.98,3247.21,1,0,No
+TEL1060,Female,1,Yes,No,8,Yes,Yes,DSL,No,Yes,Month-to-month,No,Bank transfer,42.58,346.34,0,1,Yes
+TEL1061,Female,0,No,No,53,Yes,No,Fiber optic,Yes,Yes,One year,Yes,Electronic check,86.01,4532.26,1,0,No
+TEL1062,Male,1,Yes,Yes,11,Yes,Yes,No,No internet service,No internet service,Month-to-month,Yes,Credit card,50.52,531.94,0,0,Yes
+TEL1063,Female,0,No,No,54,Yes,No,Fiber optic,No,No,One year,No,Mailed check,63.93,3479.5,2,2,Yes
+TEL1064,Female,1,No,No,31,Yes,No,Fiber optic,No,Yes,One year,No,Electronic check,76.08,2298.25,2,0,No
+TEL1065,Male,1,Yes,No,1,Yes,No,DSL,No,No,One year,Yes,Electronic check,62.98,110.11,2,1,No
+TEL1066,Female,1,Yes,No,70,No,No phone service,Fiber optic,Yes,No,One year,No,Mailed check,72.47,5010.0,1,0,No
+TEL1067,Male,1,Yes,Yes,12,No,No phone service,DSL,No,Yes,One year,No,Credit card,64.15,739.98,4,2,Yes
+TEL1068,Female,0,Yes,Yes,43,No,No phone service,DSL,Yes,Yes,Month-to-month,No,Electronic check,91.72,4030.49,2,1,No
+TEL1069,Male,0,Yes,No,14,No,No phone service,Fiber optic,,No,Month-to-month,Yes,Mailed check,69.72,1026.81,2,0,No
+TEL1070,Female,0,No,No,68,Yes,No,No,No internet service,No internet service,Month-to-month,Yes,Mailed check,98.4,6695.59,0,0,No
+TEL1071,Male,0,Yes,Yes,54,Yes,No,Fiber optic,No,No,Month-to-month,Yes,Credit card,125.47,6733.06,1,0,Yes
+TEL1072,Male,1,Yes,No,58,Yes,No,DSL,Yes,No,Month-to-month,Yes,Credit card,73.28,4226.42,0,0,Yes
+TEL1073,Female,1,Yes,No,32,Yes,Yes,Fiber optic,No,Yes,Two year,Yes,Electronic check,72.55,2324.9,1,1,No
+TEL1074,Female,0,No,No,34,Yes,Yes,No,No internet service,No internet service,Month-to-month,Yes,Electronic check,61.19,2082.15,1,1,Yes
+TEL1075,Male,0,Yes,No,46,Yes,No,Fiber optic,No,No,Month-to-month,Yes,Credit card,119.37,5486.93,0,1,No
+TEL1076,Male,0,Yes,Yes,57,Yes,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Electronic check,101.73,5797.22,2,2,No
+TEL1077,Male,0,No,No,61,Yes,No,Fiber optic,No,No,Month-to-month,No,Bank transfer,115.4,7029.75,0,3,Yes
+TEL1078,Female,0,Yes,No,2,Yes,No,No,No internet service,No internet service,One year,Yes,Bank transfer,60.95,57.01,1,1,No
+TEL1079,Male,0,Yes,No,48,Yes,No,No,No internet service,No internet service,One year,Yes,Electronic check,69.96,3334.84,3,2,No
+TEL1080,Male,0,Yes,No,8,Yes,Yes,DSL,No,No,One year,No,Credit card,55.93,488.6,1,0,No
+TEL1081,Female,0,Yes,No,21,Yes,No,No,No internet service,No internet service,One year,No,Electronic check,79.14,1600.36,1,0,No
+TEL1082,Female,0,Yes,Yes,60,Yes,Yes,No,No internet service,No internet service,Month-to-month,No,Mailed check,31.22,1864.67,1,1,No
+TEL1083,Female,0,No,Yes,19,Yes,No,DSL,Yes,Yes,One year,No,Electronic check,92.53,1721.18,0,0,No
+TEL1084,Male,1,Yes,No,58,Yes,Yes,Fiber optic,Yes,No,Month-to-month,No,Credit card,120.46,6991.69,1,0,No
+TEL1085,Female,0,Yes,No,34,Yes,Yes,DSL,No,Yes,Month-to-month,Yes,Credit card,41.89,1406.77,0,0,No
+TEL1086,Female,0,Yes,No,17,Yes,No,DSL,No,Yes,Month-to-month,Yes,Electronic check,85.29,1516.41,5,1,No
+TEL1087,Male,0,No,No,25,Yes,No,Fiber optic,No,Yes,One year,Yes,Bank transfer,51.56,1311.8,1,0,No
+TEL1088,Female,0,No,No,39,Yes,No,Fiber optic,No,Yes,Month-to-month,Yes,Bank transfer,108.31,4165.06,0,0,Yes
+TEL1089,Male,1,Yes,No,56,Yes,Yes,DSL,No,No,Month-to-month,No,Credit card,37.6,2135.81,2,0,Yes
+TEL1090,Male,0,Yes,Yes,44,No,No phone service,Fiber optic,No,No,Month-to-month,Yes,Bank transfer,127.23,5563.26,0,0,No
+TEL1091,Male,0,Yes,No,68,Yes,No,No,No internet service,No internet service,Month-to-month,Yes,Mailed check,25.37,1699.2,0,0,No
+TEL1092,Male,1,Yes,No,63,Yes,No,Fiber optic,No,Yes,One year,Yes,Electronic check,129.3,8160.02,1,1,No
+TEL1093,Male,1,Yes,No,55,Yes,No,Fiber optic,No,No,Month-to-month,Yes,Credit card,115.08,6307.27,0,0,Yes
+TEL1094,Male,0,Yes,Yes,44,Yes,Yes,DSL,Yes,No,Month-to-month,Yes,Electronic check,83.43,3711.1,0,0,No
+TEL1095,Male,0,No,No,21,Yes,Yes,Fiber optic,No,No,Month-to-month,Yes,Bank transfer,113.44,2347.39,1,0,No
+TEL1096,Female,0,Yes,No,30,Yes,No,Fiber optic,Yes,No,One year,No,Credit card,114.56,3408.95,1,0,No
+TEL1097,Female,0,Yes,No,9,Yes,No,DSL,Yes,No,Month-to-month,Yes,Electronic check,115.14,1006.72,0,0,No
+TEL1098,Male,0,Yes,No,27,Yes,Yes,No,No internet service,No internet service,Month-to-month,No,Electronic check,35.8,941.15,3,1,No
+TEL1099,Female,0,No,No,67,Yes,Yes,Fiber optic,No,Yes,Month-to-month,No,Mailed check,96.11,6488.83,1,1,No
+TEL1100,Male,1,No,No,31,Yes,No,Fiber optic,Yes,Yes,Two year,Yes,Electronic check,51.55,1626.35,1,0,No
